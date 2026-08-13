@@ -13,6 +13,12 @@
 - **自动保存**：内容保存在浏览器本地（localStorage），刷新不丢失
 - **安全**：HTML 转义，粘贴原始 `<script>` 不会被执行
 
+## 🚀 在线体验
+
+👉 点击打开：<https://sunfloweandnefertari.github.io/markdown-previewer-/>
+
+部署在 GitHub Pages，打开即用，无需安装。
+
 ## 🚀 使用
 
 - **方式一**：直接双击 `index.html` 在浏览器打开
